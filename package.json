@@ -1,5 +1,5 @@
 {
-  "version": "2.5.10",
+  "version": "2.5.12",
   "description": "Implement php function for nodejs ",
   "main": "phplike",
   "keywords": [
@@ -51,6 +51,7 @@
   "cpu": [
     "x64",
     "ia32",
-    "arm"
+    "arm",
+    "arm64"
   ]
 }
